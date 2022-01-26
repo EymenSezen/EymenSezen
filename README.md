@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on Backend Development (.Net,Java)
 - 🌱 I’m currently learning and researching everything to improve myself
 - 👯 I’m looking to collaborate on Mobile Development (React Native)
-- 💬 You can ask me anything I can research I like to receive and give information
+- 💬 You can ask me anything I can research because I like to receive and give information
 - ⚡ Fun fact: I like to listen to music 🎶 and play chess ♟
 <br />
 
