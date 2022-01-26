@@ -26,6 +26,7 @@
 [<img align="left" alt="eclipse" width="26px" src="https://img.utdstc.com/icon/3c7/fcf/3c7fcf4930fa9402c22cee35e03fe9fcf9e8e47c9381d6b9e6922d71ee2e067a:200" />][eclipse]
 [<img align="left" alt="dotnet" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/dotnet/dotnet.png" />][dotnet]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+[<img align="left" alt="sql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
 [<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/csharp/csharp.png" />][c#]
 [<img align="left" alt="java" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/java/java.png" />][java]
 [<img align="left" alt="javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/javascript/javascript.png" />][javascript]
@@ -52,8 +53,9 @@
 [java]: https://www.java.com/
 [javascript]: https://www.javascript.com/
 [c#]: https://docs.microsoft.com/dotnet/csharp/
-[css]:https://tr.wikipedia.org/wiki/CSS
-[html]:https://tr.wikipedia.org/wiki/HTML
+[css]:https://wikipedia.org/wiki/CSS
+[html]:https://wikipedia.org/wiki/HTML
 [dotnet]:https://dotnet.microsoft.com/en-us/
+[sql]:https://wikipedia.org/wiki/SQL
 
 
