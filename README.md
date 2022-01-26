@@ -9,7 +9,6 @@
 - 💬 You can ask me anything I can research because I like to receive and give information
 - ⚡ Fun fact: I like to listen to music 🎶 and play chess ♟
 <br />
-
 ### 📩 Connect with me:
 
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
@@ -17,7 +16,6 @@
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
 
 <br />
-
 
 ### 🔧 Languages and Tools:
 
