@@ -35,6 +35,7 @@
 [<img align="left" alt="angular" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/angular/angular.png" />][angular]
 
 <br />
+
 ### GitHub Analytics 📊
 
 <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EymenSezen&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="analytics"/>
